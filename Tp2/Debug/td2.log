@@ -1,0 +1,6 @@
+﻿  td2.cpp
+C:\Users\alexi_a97ts3w\Documents\INF1015\td2.cpp(92,65): error C2398: Element '2': conversion from 'int' to 'gsl::span<Film *,4294967295>::size_type' requires a narrowing conversion
+C:\Users\alexi_a97ts3w\Documents\INF1015\td2.cpp(98,74): error C2398: Element '2': conversion from 'int' to 'gsl::span<Acteur *,4294967295>::size_type' requires a narrowing conversion
+C:\Users\alexi_a97ts3w\Documents\INF1015\td2.cpp(121,65): error C2398: Element '2': conversion from 'int' to 'gsl::span<Film *,4294967295>::size_type' requires a narrowing conversion
+C:\Users\alexi_a97ts3w\Documents\INF1015\td2.cpp(126,76): error C2398: Element '2': conversion from 'int' to 'gsl::span<Acteur *,4294967295>::size_type' requires a narrowing conversion
+C:\Users\alexi_a97ts3w\Documents\INF1015\td2.cpp(250,81): error C2398: Element '2': conversion from 'int' to 'gsl::span<Film *,4294967295>::size_type' requires a narrowing conversion
